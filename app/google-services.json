@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855062580121",
+    "project_id": "fir-auth-8ce1d",
+    "storage_bucket": "fir-auth-8ce1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855062580121:android:d2ca386519f8f64f1fe108",
+        "android_client_info": {
+          "package_name": "com.conamobile.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpW7HNePWBZ2PzsRdY6kgAvTjakVR06CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
